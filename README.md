@@ -52,4 +52,3 @@
 
 ---
 
-![Linux Meme](https://media.giphy.com/media/3o7TKzA5c27h8dZ7Fe/giphy.gif)
